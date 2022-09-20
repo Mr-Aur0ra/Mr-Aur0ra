@@ -1,4 +1,4 @@
-# Mr-Aur0ra's Profile
+# Mr.Aur0ra's Profile
 
 <img src ="https://github-readme-stats.vercel.app/api?username=Mr-Aur0ra&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
 <img src ="https://github-profile-trophy.vercel.app/?username=Mr-Aur0ra">
