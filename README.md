@@ -4,8 +4,14 @@
 <img src ="https://github-profile-trophy.vercel.app/?username=Mr-Aur0ra">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aur0ra&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
 
+
+## 🔭 Research Interests
+- Reverse Engineering
+- Malware Analysis
+- Incident Response
+- Modern Cryptography
+
 <!--
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
