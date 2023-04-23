@@ -10,6 +10,9 @@
 - Incident Response
 - Modern Cryptography
 
+## 🍀 GitHub stats
+![Mr.Aur0ra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Aur0ra&show_icons=true&theme=tokyonight)
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
