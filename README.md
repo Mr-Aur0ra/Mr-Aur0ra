@@ -2,10 +2,9 @@
 
 
 ## 🔭 Research Interests
-- Reverse Engineering
 - Malware Analysis
-- Incident Response
 - Cryptography
+- Incident Response
 
 
 ## 🍀 GitHub stats
